@@ -1,3 +1,5 @@
+This is a JISC modification
+
 CAT, the Configuration Assistant Tool for Enterprise Wi-Fi networks such as eduroam
 ===================================================================================
 
