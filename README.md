@@ -1,7 +1,17 @@
-CAT, the Configuration Assistant Tool for Enterprise Wi-Fi networks such as Govroam
-===================================================================================
+Govroam CAT, the Configuration Assistant Tool
+=============================================
 
-CAT collects information about RADIUS/EAP deployments from Wi-Fi network administrators and generates simple-to-use, good-looking, and secure installation programs for users of these networks. The goal is to vastly improve the network security by pushing secure Wi-Fi settings to all users without the need to expose them to or require them to understand all of the underlying technologies and configuration parameters.
+This is a Govroam specific version GEANT's CAT tool. Essentially it's a
+clone but with some of the pages rebranded with the Govroam name, URLs and
+logo, and some of the text changed to be more suitable for public sector
+rather than education.
+
+CAT collects information about RADIUS/EAP deployments from Wi-Fi network
+administrators and generates simple-to-use, good-looking, and secure
+installation programs for users of these networks.  The goal is to vastly
+improve the network security by pushing secure Wi-Fi settings to all users
+without the need to expose them to or require them to understand all of the
+underlying technologies and configuration parameters.
 
 [![Code Climate](https://codeclimate.com/github/GEANT/CAT/badges/gpa.svg)](https://codeclimate.com/github/GEANT/CAT)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/GEANT/CAT/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/GEANT/CAT/?branch=master)
@@ -9,21 +19,9 @@ CAT collects information about RADIUS/EAP deployments from Wi-Fi network adminis
 
 Govroam CAT User Manuals
 ------------------------
-The flagship of CAT, the Govroam CAT (https://cat.Govroam.org), has extensive documentation (with screenshots!) of CAT. You may want to read those for an overview of the features.
-
-[Govroam CAT federation administrator documentation](https://wiki.geant.org/display/H2Govroam/A+guide+to+Govroam+CAT+for+federation+administrators)
-
-[Govroam CAT institution administrator documentation](https://wiki.geant.org/display/H2Govroam/A+guide+to+Govroam+CAT+for+institution+administrators)
+The Govroam CAT (https://cat.govroam.uk), has extensive documentation (with screenshots!) of CAT. You may want to read those for an overview of the features.
 
 There is no documentation for end users, simply because it's so easy to use on the end-user side that no documentation is required! :-)
-
-Known deployments
------------------
-There are three known production deployments of CAT (please let us know if you are deploying the software and want to be on this list!).
-
-* *Govroam CAT* https://cat.Govroam.org (for all Govroam institutions and users world-wide, except Germany)
-* *DFN Govroam CAT* https://cat.Govroam.de (for Govroam institutions in Germany and their users)
-* *Enterprise Network CAT* https://802.1x-config.org (for enterprise networks unrelated to Govroam)
 
 Installation and configuration of your own deployment
 -----------------------------------------------------
